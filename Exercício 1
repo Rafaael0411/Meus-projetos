@@ -1,0 +1,4 @@
+INDICE = int('13')
+K = int('11')
+SOMA = INDICE + K
+print(' SOMA é igual a ', (K + 1) + INDICE)
